@@ -1,0 +1,17 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - MJExtension (3.0.8)
+
+DEPENDENCIES:
+  - FMDB
+  - MJExtension
+
+SPEC CHECKSUMS:
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  MJExtension: 12d2875959b4a0f936ae86b22a1eb6b0251c50ba
+
+COCOAPODS: 0.39.0
